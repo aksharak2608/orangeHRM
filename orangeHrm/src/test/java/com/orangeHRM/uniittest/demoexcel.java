@@ -15,9 +15,7 @@ public class demoexcel {
 	@Test
 	public void login() {
 		for (int i = 0; i < 5; i++) {
-			String user1=excelDataProvider.r1();
 
-			System.out.println(user1);
 
 		}
 	}
